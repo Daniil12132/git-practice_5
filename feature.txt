@@ -1,2 +1,2 @@
-Hello, this is a new feature!
 Изменение в master
+Изменение в conflict-branch
